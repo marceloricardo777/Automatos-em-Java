@@ -1,0 +1,9 @@
+public class ExemploSoma {
+  public static void main ( String [ ] args ){
+    //codigoparasoma
+    int numero1 = 5;
+    int numero2 = 15 ;
+    int soma = 0;
+    soma = numero1 + numero2;
+  }
+}
